@@ -1,4 +1,4 @@
-# Toktik
+# Toktik 🎉
 
 ## Project Description
 
@@ -171,7 +171,7 @@ Check if all the processes is pulled successfully
 watch -n 1 kubectl get all
 ```
 
-Should take ~30secs - 1min for all services to start, then voila. Toktik is now live at http://localhost
+Should take ~30secs - 1min for all services to start, then voila. Toktik is now live at http://localhost 🎉🎉
 
 &nbsp;
 
